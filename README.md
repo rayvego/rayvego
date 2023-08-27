@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayvego
 - 👀 I’m interested in coding and software development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on full stack development projects
+- 💞️ I’m looking to collaborate on java projects
 - 📫 Reach me on themohit27@gmail.com
 
 <!---
