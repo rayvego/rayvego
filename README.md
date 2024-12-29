@@ -41,4 +41,4 @@ and many more!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohit-panchal-18835to5329/)
 - 📥 [Gmail](themohit27@gmail.com)
-- 💻 Portfolio - coming soon
+- 💻 [Portfolio](https://rayvego.notion.site/portfolio)
