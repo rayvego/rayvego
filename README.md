@@ -2,6 +2,8 @@
 
 I'm a **BTech student at IIT Gandhinagar, CSE (Class of 2027)**, passionate about **software development** and **blockchain technologies**. I love exploring new tools and frameworks, always striving to enhance my skills. Currently, I’m focused on full-stack development and blockchain, and I aspire to become an entrepreneur in the tech space. 🚀
 
+![Rayvego's GitHub stats](https://github-readme-stats-pied-one-11.vercel.app/api?username=rayvego&show_icons=true&theme=dracula&hide_title=true&rank_icon=github)
+
 ---
 
 ## 🚀 Tech Skills:
